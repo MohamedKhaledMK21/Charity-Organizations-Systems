@@ -1,0 +1,38 @@
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.exe.config
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.exe
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.pdb
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Properties.Resources.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.exe
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.pdb
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Form4.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Form5.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Update.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Delete.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.START.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.USRE_OPTION.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Employee_login.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.insert.resources
+C:\Users\Home\Desktop\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.add_donator.resources
+G:\project tasks\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.exe.config
+G:\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.exe
+G:\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.pdb
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.exe.config
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.exe
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.pdb
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.exe
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\bin\Debug\IS PROJECT.pdb
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.csprojResolveAssemblyReference.cache
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.add_donator.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Delete.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.START.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.USRE_OPTION.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Employee_login.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Form4.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Form5.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.insert.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Properties.Resources.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.Update.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS_PROJECT.volunteer.resources
+G:\university\2-Second Year\First Term\Information System\Project\project-tasks\project tasks\IS PROJECT\IS PROJECT\obj\Debug\IS PROJECT.csproj.GenerateResource.Cache
